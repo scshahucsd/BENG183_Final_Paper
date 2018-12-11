@@ -53,3 +53,13 @@ We now reverse the crosslinks we had formed earlier between the DNA and proteins
 ![Map](Map.png)
 
 We have completed the ChIP-Seq assay portion. Now that we have the isolated DNA fragments that we know interact with a certain protein, we sequence them and map them to the genome. As shown in the Figure, we know which what part of the genome specific proteins highly interact with.
+
+
+
+**References:**
+* http://www.genome.org/cgi/doi/10.1101/gr.5583007
+* https://www.sciencedirect.com/science/article/pii/S0968000499015352
+* https://www.illumina.com/techniques/sequencing/dna-sequencing/chip-seq.html
+* http://www.jbc.org/content/290/44/26404
+* https://www.diagenode.com/en/categories/chip-seq-grade-antibodies
+* https://slideplayer.com/slide/3385783/12/images/2/ChIP-seq+overview+DNA+%2B+bound+protein+Fragment+DNA+Immunoprecipitate.jpg
